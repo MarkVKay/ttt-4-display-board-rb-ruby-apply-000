@@ -14,4 +14,5 @@ end
 board_1 = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board_1)
 
-
+board_2 = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
+display_board(board_2)

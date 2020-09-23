@@ -23,5 +23,11 @@ spacer
 board_1 = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board_1)
 
+spacer
+
 board_2 = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board_2)
+
+spacer
+
+board_3 = 

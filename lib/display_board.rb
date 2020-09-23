@@ -44,4 +44,9 @@ display_board(board_5)
 
 spacer
 
+board_6 = ["X", " ", " ", " ", "X", " ", " ", " ", "X"]
+display_board(board_6)
+
+spacer
+
 

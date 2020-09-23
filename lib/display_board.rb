@@ -13,7 +13,7 @@ end
 
 display_board(board)
 
-puts "__LINE__"
+puts " "
 
 board_1 = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board_1)

@@ -12,6 +12,7 @@ def display_board(board)
 end
 
 display_board(board)
+
  def spacer
    puts " "
    puts " "
@@ -54,5 +55,8 @@ display_board(board_7)
 
 spacer
 
-board = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
-display_board(board)
+board_8 = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
+display_board(board_8)
+
+spacer
+

@@ -13,7 +13,7 @@ end
 
 board = [" ", " ", " ", " ", " X ", " ", " ", " ", " "]
 
-def display_board(board)
+def display_board(exfour)
   puts "   |   |   "
   puts "-----------"
   puts "   | X |   "
@@ -21,5 +21,5 @@ def display_board(board)
   puts "   |   |   "
 end
 
-display_board(board)
+display_board(board, exfour)
 

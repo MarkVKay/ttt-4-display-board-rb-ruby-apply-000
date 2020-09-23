@@ -54,3 +54,5 @@ display_board(board_7)
 
 spacer
 
+board = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
+display_board(board)

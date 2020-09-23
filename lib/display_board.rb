@@ -13,6 +13,8 @@ end
 
 display_board(board)
 
+puts "__LINE__"
+
 board_1 = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board_1)
 

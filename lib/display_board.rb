@@ -68,3 +68,7 @@ spacer
 board_10 = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
 display_board(board_10)
 
+spacer
+
+board_11 = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
+display_board(board_11)

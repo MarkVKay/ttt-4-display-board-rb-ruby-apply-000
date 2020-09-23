@@ -14,6 +14,8 @@ end
 display_board(board)
 
 puts " "
+puts " "
+puts " "
 
 board_1 = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board_1)

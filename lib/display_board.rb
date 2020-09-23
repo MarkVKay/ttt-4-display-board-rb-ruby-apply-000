@@ -13,7 +13,7 @@ end
 
 board = [" ", " ", " ", " ", " X ", " ", " ", " ", " "]
 
-def display_board(exfour)
+def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   | X |   "

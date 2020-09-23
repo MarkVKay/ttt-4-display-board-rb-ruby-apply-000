@@ -12,10 +12,13 @@ def display_board(board)
 end
 
 display_board(board)
-
-puts " "
-puts " "
-puts " "
+ def spacer
+   puts " "
+   puts " "
+   puts " "
+end
+   
+spacer 
 
 board_1 = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 display_board(board_1)
